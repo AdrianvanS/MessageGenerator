@@ -10,3 +10,24 @@ header{
     background: linear-gradient(to left, #42f5e6, #4e42f5);
     height: 50px;
 }
+
+#genButton{
+    background-color: #5e0080;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    border: none;
+    padding: 15px 32px;
+    margin-top: 10px;
+    border-radius: 1em;
+}
+
+#genButton:hover{
+    background-color: #e8aefc;
+}
+
+.page{
+    background: #e3e3e3;
+    height: 500px;
+    padding-left: 10px;
+}
